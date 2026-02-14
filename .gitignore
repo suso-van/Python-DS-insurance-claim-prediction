@@ -1,0 +1,27 @@
+# --- Python Basics ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Virtual Environments (CRITICAL) ---
+# This prevents your huge venv folder from being uploaded
+venv/
+.venv/
+env/
+.env
+
+# --- Jupyter Notebooks ---
+.ipynb_checkpoints/
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --- VS Code Settings ---
+.vscode/
+
+# --- Large Data & Models (Optional) ---
+# Uncomment the lines below if you do NOT want to upload data/models
+# data/
+# models/
