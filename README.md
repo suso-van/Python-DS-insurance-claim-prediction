@@ -1,4 +1,4 @@
-# 🏥 Medical Insurance Cost Prediction
+# 🏥  Insurance Claim Prediction
 
 ![Python](https://img.shields.io/badge/Python-3.14-blue)
 ![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
